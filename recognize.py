@@ -1,7 +1,5 @@
 from localbinarypatterns import LocalBinaryPatterns
 from sklearn.svm import LinearSVC
-from skimage import color
-from skimage import io
 from PIL import Image
 from sklearn.externals import joblib
 import os

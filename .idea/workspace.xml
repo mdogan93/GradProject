@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ff473ee-bab3-4e76-bfec-d2da26055629" name="Default" comment="" />
+    <list default="true" id="6ff473ee-bab3-4e76-bfec-d2da26055629" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSIFT.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/France Chartres Cathdral Full Exterior.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Gothic Architecture.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1084_600px-Michel_-_Noord.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1084_600px-Michel_-_Noord.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/127_800px-Goa_Velha_Basilica_Bom_Jesus.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/127_800px-Goa_Velha_Basilica_Bom_Jesus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/131_800px-Basilica_do_Bom_Jesus.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/131_800px-Basilica_do_Bom_Jesus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/162_800px-Basilica_of_Bom_Jesus_-_Old_Goa.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/162_800px-Basilica_of_Bom_Jesus_-_Old_Goa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1646_800px-Ben_Martin_-_Kunstzone_Karlsplatz_2008_c.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1646_800px-Ben_Martin_-_Kunstzone_Karlsplatz_2008_c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1677_800px-Viena_1087.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1677_800px-Viena_1087.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/169_798px-Basilica_of_Bom_Jesus_%28Goa%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/169_798px-Basilica_of_Bom_Jesus_%28Goa%29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2258_317px-Jesuitenkirche%2C_Wien1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2258_317px-Jesuitenkirche%2C_Wien1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2293_354px-Wien.JesuitenkircheP.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2293_354px-Wien.JesuitenkircheP.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2739_800px-Muenchen_Buergersaal_Orgel.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2739_800px-Muenchen_Buergersaal_Orgel.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/298_450px-Gesuati_facade_Venice.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/298_450px-Gesuati_facade_Venice.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3398_386px-Deutscher_Dom_Berlin_Gendarmenmarkt_december_2004.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3398_386px-Deutscher_Dom_Berlin_Gendarmenmarkt_december_2004.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3440_609px-Berlin%2C_Mitte%2C_Gendarmenmarkt%2C_Deutscher_Dom_03.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3440_609px-Berlin%2C_Mitte%2C_Gendarmenmarkt%2C_Deutscher_Dom_03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3718_785px-Petersdom_Rom-1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3718_785px-Petersdom_Rom-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3754_800px-St._Peter%27s%2C_Rome%2C_Sept._2011_-_Flickr_-_PhillipC.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3754_800px-St._Peter%27s%2C_Rome%2C_Sept._2011_-_Flickr_-_PhillipC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4379_387px-Moscow%2C_Ascension_church_at_Serpukhov_Gates_%283%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4379_387px-Moscow%2C_Ascension_church_at_Serpukhov_Gates_%283%29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4440_722px-Moscow_Fili_ChurchProtectionTheotokos3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4440_722px-Moscow_Fili_ChurchProtectionTheotokos3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/462_800px-Church_near_the_train_station_in_Venice.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/462_800px-Church_near_the_train_station_in_Venice.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4676_800px-Paris_Val_de_grace.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4676_800px-Paris_Val_de_grace.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4975_800px-Les_Invalides_3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4975_800px-Les_Invalides_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4976_800px-Paris_-_Les_invalides_-_Le_D%C3%B4me_-_131.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4976_800px-Paris_-_Les_invalides_-_Le_D%C3%B4me_-_131.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5034_800px-Paris_-_D%C3%B4me_des_Invalides_-_PA00088714_-_001.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5034_800px-Paris_-_D%C3%B4me_des_Invalides_-_PA00088714_-_001.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5044_400px-Paris_-_Le_D%C3%B4me_des_Invalides_-_118.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5044_400px-Paris_-_Le_D%C3%B4me_des_Invalides_-_118.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5063_668px-The_Dome_Church_at_Les_Invalides_-_July_2006.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5063_668px-The_Dome_Church_at_Les_Invalides_-_July_2006.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5070_456px-Invalides_August_2%2C_1968.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5070_456px-Invalides_August_2%2C_1968.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5079_587px-Invalides_2007_03_11.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5079_587px-Invalides_2007_03_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/545_572px-Chiesa_di_San_Luca_Venezia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/545_572px-Chiesa_di_San_Luca_Venezia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/761_800px-Chiesa_di_San_Biagio_%28Venice%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/761_800px-Chiesa_di_San_Biagio_%28Venice%29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/832_450px-Venice_%2830324876%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/832_450px-Venice_%2830324876%29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1241_800px-Mount_Athos_administration_building.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1241_800px-Mount_Athos_administration_building.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1875_800px-Rotunda_of_Galerius_%28February_2009%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1875_800px-Rotunda_of_Galerius_%28February_2009%29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1877_800px-Rotonda_%282%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1877_800px-Rotonda_%282%29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1948_800px-St_Demetrius_Tarnovo_Klearchos_2.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1948_800px-St_Demetrius_Tarnovo_Klearchos_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1962_800px-Sunny_Beach_Nesebar_centre_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1962_800px-Sunny_Beach_Nesebar_centre_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1965_800px-Sunny_Beach_Nesebar_centre_2.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1965_800px-Sunny_Beach_Nesebar_centre_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2838_800px-St_Marks_Basilica_1_%287236205690%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2838_800px-St_Marks_Basilica_1_%287236205690%29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/889_800px-Holy_Wisdom_Salonica_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/889_800px-Holy_Wisdom_Salonica_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/894_800px-Thessaloniki_-_Agia_Sophia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/894_800px-Thessaloniki_-_Agia_Sophia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/903_495px-Holy_Wisdom_Thessaloniki_as_Moslem_Temple.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/903_495px-Holy_Wisdom_Thessaloniki_as_Moslem_Temple.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/952_Macedonian_Museums-80-Arx_Krypth_Ag_Dhmhtriou-351.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/952_Macedonian_Museums-80-Arx_Krypth_Ag_Dhmhtriou-351.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0060.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0060.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0061.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0061.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0065.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0065.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0072.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0072.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0073.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0073.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0100.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0108.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0108.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/060806-France-Paris-Notre_Dame.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/060806-France-Paris-Notre_Dame.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/20356-004-21DBD200.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/20356-004-21DBD200.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Expiatorio_GDL.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Expiatorio_GDL.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Notre_Dame_Cathedral_-_Paris.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Notre_Dame_Cathedral_-_Paris.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/catholic-church-gothic-architecture-style-22449845.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/catholic-church-gothic-architecture-style-22449845.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1422_800px-Walden-7_Sant_Just_Desvern_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1422_800px-Walden-7_Sant_Just_Desvern_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1497_336px-Chicago_United_Continental_Building_07.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1497_336px-Chicago_United_Continental_Building_07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/153_574px-Buenos_Aires_2.0.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/153_574px-Buenos_Aires_2.0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1566_800px-Marriott_hotel_and_Busch_Stadium_II_St._Louis_August_2004.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1566_800px-Marriott_hotel_and_Busch_Stadium_II_St._Louis_August_2004.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1805_400px-Spiral-Building-Aoyama-00.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1805_400px-Spiral-Building-Aoyama-00.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/194_800px-Sheraton_Mar_del_Plata_desde_rotonda_del_Golf.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/194_800px-Sheraton_Mar_del_Plata_desde_rotonda_del_Golf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/221_530px-Buenos_Aires_Reserva_Ecol%C3%B3gica.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/221_530px-Buenos_Aires_Reserva_Ecol%C3%B3gica.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/222_RepsolArgentina.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/222_RepsolArgentina.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/264_800px-Torres_de_Manantiales_desde_la_costanera.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/264_800px-Torres_de_Manantiales_desde_la_costanera.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3059_769px-51_Astor_Place.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3059_769px-51_Astor_Place.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3174_HumanaBuilding1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3174_HumanaBuilding1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3238_397px-Byker_Wall_-_geograph.org.uk_-_933394.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3238_397px-Byker_Wall_-_geograph.org.uk_-_933394.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3274_450px-G%C3%B6teborg_Utkiken-Turm_.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3274_450px-G%C3%B6teborg_Utkiken-Turm_.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3278_397px-Skanskaskrapan_september_2012.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3278_397px-Skanskaskrapan_september_2012.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/370_450px-Pirelli_Retiro.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/370_450px-Pirelli_Retiro.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4275_375px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_08.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4275_375px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4289_397px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_06.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4289_397px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4325_795px-Michael_Stolle.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4325_795px-Michael_Stolle.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4381_450px-Potsdamer_Platz_-_Kollhoff-Tower%2C_20060603.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4381_450px-Potsdamer_Platz_-_Kollhoff-Tower%2C_20060603.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4833_450px-4_One_Atlantic_Center.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4833_450px-4_One_Atlantic_Center.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4836_459px-Three_Eras_-_Houston.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4836_459px-Three_Eras_-_Houston.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4839_450px-Bank_of_America_Center_Houston_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4839_450px-Bank_of_America_Center_Houston_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4908_452px-Torre_Puerta_de_Europa_de_Madrid.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4908_452px-Torre_Puerta_de_Europa_de_Madrid.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4964_397px-Lipstick_Building_-_Philip_Johnson.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4964_397px-Lipstick_Building_-_Philip_Johnson.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4966_354px-Lipstick_building.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4966_354px-Lipstick_building.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/598_421px-Connecticut_Financial_Center_cropped.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/598_421px-Connecticut_Financial_Center_cropped.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/599_450px-2006_Wells_Fargo_Center%2C_Salt_Lake_City.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/599_450px-2006_Wells_Fargo_Center%2C_Salt_Lake_City.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/642_400px-Perth-bank.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/642_400px-Perth-bank.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/683_450px-Q1_luke.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/683_450px-Q1_luke.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/84_448px-Barrio_Saavedra_4.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/84_448px-Barrio_Saavedra_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/964_445px-Bank_of_China_Tower_daytime.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/964_445px-Bank_of_China_Tower_daytime.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/117_800px-Basilica_of_BomJesus.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/117_800px-Basilica_of_BomJesus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/320_800px-Mystras_1997-09_3_detail.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/320_800px-Mystras_1997-09_3_detail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/354_800px-Dafni_Monastery_NW.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/354_800px-Dafni_Monastery_NW.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/358_800px-Gotic_Dafni.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/358_800px-Gotic_Dafni.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/50_800px-Vitebsk-blagoveschcerkov.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Byzantine/50_800px-Vitebsk-blagoveschcerkov.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0009.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0009.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0011.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0011.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/18_461px-Robot_building.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/18_461px-Robot_building.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/50_450px-Buenos_Aires_Building.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/50_450px-Buenos_Aires_Building.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/63_797px-Construccion_en_Buenos_Aires.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/63_797px-Construccion_en_Buenos_Aires.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/64_800px-Posadas-plaza-shopping.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/64_800px-Posadas-plaza-shopping.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model.pkl" afterPath="$PROJECT_DIR$/model.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Graduate.iml" afterPath="$PROJECT_DIR$/.idea/Graduate.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recognize.py" afterPath="$PROJECT_DIR$/recognize.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/siftFeatureCreator.py" afterPath="$PROJECT_DIR$/siftFeatureCreator.py" />
+    </list>
     <ignored path="Graduate.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -14,11 +117,14 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Graduate$siftFeatureCreator.coverage" NAME="siftFeatureCreator Coverage Results" MODIFIED="1492804873047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$sinemSIFT.coverage" NAME="sinemSIFT Coverage Results" MODIFIED="1495057703446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$siftFeatureCreator.coverage" NAME="siftFeatureCreator Coverage Results" MODIFIED="1495059620069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$TestSIFT.coverage" NAME="TestSIFT Coverage Results" MODIFIED="1495073364598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Graduate$localbinarypatterns.coverage" NAME="localbinarypatterns Coverage Results" MODIFIED="1488457979570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$sinemSIFTTEST.coverage" NAME="sinemSIFTTEST Coverage Results" MODIFIED="1495071406141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Graduate$downloadScript.coverage" NAME="downloadScript Coverage Results" MODIFIED="1491418937617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm_light" />
     <SUITE FILE_PATH="coverage/Graduate$Unittests_in_Graduate.coverage" NAME="Unittests in Graduate Coverage Results" MODIFIED="1490481359419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Graduate$recognize.coverage" NAME="recognize Coverage Results" MODIFIED="1491486634004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$recognize.coverage" NAME="recognize Coverage Results" MODIFIED="1495057188770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -32,8 +138,8 @@
       <file leaf-file-name="recognize.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recognize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="62" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="62" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="15" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -41,13 +147,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="siftFeatureCreator.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
+      <file leaf-file-name="localbinarypatterns.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/localbinarypatterns.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSIFT.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestSIFT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,6 +180,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,7 +192,10 @@
         <option value="$PROJECT_DIR$/svm_light/downloadScript.py" />
         <option value="$PROJECT_DIR$/Tools.py" />
         <option value="$PROJECT_DIR$/recognize.py" />
+        <option value="$PROJECT_DIR$/sinemSIFT.py" />
         <option value="$PROJECT_DIR$/siftFeatureCreator.py" />
+        <option value="$PROJECT_DIR$/TestSIFT.py" />
+        <option value="$PROJECT_DIR$/sinemSIFTTEST.py" />
       </list>
     </option>
   </component>
@@ -112,7 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -145,75 +269,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MajorProjectResources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MajorProjectResources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningSet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MajorProjectResources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningSet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gothic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,25 +285,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.siftFeatureCreator">
-    <configuration default="false" name="localbinarypatterns" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Graduate" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/localbinarypatterns.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.TestSIFT">
     <configuration default="false" name="recognize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,47 +304,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in Graduate" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Graduate" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
-      <option name="TEST_TYPE" value="TEST_FOLDER" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="downloadScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svm_light" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Graduate" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/downloadScript.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="siftFeatureCreator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,6 +318,60 @@
       <module name="Graduate" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/siftFeatureCreator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sinemSIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graduate" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sinemSIFT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sinemSIFTTEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graduate" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sinemSIFTTEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graduate" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSIFT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -532,19 +585,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.localbinarypatterns" />
-      <item index="1" class="java.lang.String" itemvalue="Python.recognize" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Graduate" />
-      <item index="3" class="java.lang.String" itemvalue="Python.downloadScript" />
-      <item index="4" class="java.lang.String" itemvalue="Python.siftFeatureCreator" />
+      <item index="0" class="java.lang.String" itemvalue="Python.recognize" />
+      <item index="1" class="java.lang.String" itemvalue="Python.siftFeatureCreator" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sinemSIFT" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sinemSIFTTEST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TestSIFT" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.siftFeatureCreator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.recognize" />
-        <item index="2" class="java.lang.String" itemvalue="Python.downloadScript" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Graduate" />
-        <item index="4" class="java.lang.String" itemvalue="Python.localbinarypatterns" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TestSIFT" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sinemSIFTTEST" />
+        <item index="2" class="java.lang.String" itemvalue="Python.siftFeatureCreator" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sinemSIFT" />
+        <item index="4" class="java.lang.String" itemvalue="Python.recognize" />
       </list>
     </recent_temporary>
   </component>
@@ -585,17 +638,17 @@
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24365872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45603576" sideWeight="0.50269026" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36065573" sideWeight="0.49730977" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2757079" sideWeight="0.49730977" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -617,10 +670,91 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinemSIFTTEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinemSIFT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/recognize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -635,9 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,9 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,9 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,9 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,9 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,9 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,9 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,9 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -871,13 +981,6 @@
     <entry file="file://$PROJECT_DIR$/Resources/buckinghamPalace.jpg" />
     <entry file="file://$PROJECT_DIR$/Resources/laPedrera.jpg" />
     <entry file="file://$PROJECT_DIR$/bub.jpg" />
-    <entry file="file://$PROJECT_DIR$/localbinarypatterns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example_fileTraining.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -906,32 +1009,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sinemSIFT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/recognize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="62" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="15" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools.py">
+    <entry file="file://$PROJECT_DIR$/sinemSIFTTEST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+        <state relative-caret-position="225">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localbinarypatterns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
+    <entry file="file://$PROJECT_DIR$/TestSIFT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="1065">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
