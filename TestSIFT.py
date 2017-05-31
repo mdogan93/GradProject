@@ -1,14 +1,15 @@
 import argparse as ap
+import sys
+sys.path.append('/home/narya/cities-env/lib/python3.4/site-packages')
+import numpy as np
 import cv2
 from imutils import paths
-import numpy as np
 import os
 from sklearn.svm import LinearSVC
 from sklearn.externals import joblib
 from scipy.cluster.vq import *
 from cv2 import xfeatures2d
 from Tools import Tools
-
 
 # Load the classifier, class names, scaler, number of clusters and vocabulary
 clf, classes_names, stdSlr, k, voc = joblib.load("bof.pkl")
@@ -18,7 +19,7 @@ testingSetPath = "Resources/MajorProjectResources/TestingSet"
 image_paths = []
 image_classes=[]
 testing_names = os.listdir(testingSetPath)
-
+testing_names = ['Gothic','GreekRevival']
 def gen_sift_features(gray_img):
     sift = xfeatures2d.SIFT_create()
     # kp is the keypoints
@@ -40,11 +41,12 @@ sift = cv2.xfeatures2d.SIFT_create()
 des_list = []
 
 for image_path in image_paths:
-    print(image_path)
+    #print(image_path)
+    image_path = image_path.replace('\ ', ' ')
     im = cv2.imread(image_path,0)
     kpts, des = gen_sift_features(im)
     des_list.append((image_path, des))
-
+#print(image_classes)
 # Stack all the descriptors vertically in a numpy array
 descriptors = des_list[0][1]
 for image_path, descriptor in des_list[0:]:
@@ -63,19 +65,17 @@ idf = np.array(np.log((1.0 * len(image_paths) + 1) / (1.0 * nbr_occurences + 1))
 
 # Scale the features
 test_features = stdSlr.transform(test_features)
-print(clf.predict(test_features))
+
 # Perform the predictions
 predictions = [i for i in clf.predict(test_features)]
 
 accuracyCount=0
 totalCount = 0
 for i in range(0,len(image_paths)):
-    print(predictions[i])
-    print(image_classes[i])
+    #print(predictions[i])
+    #print(image_classes[i])
     if predictions[i]== image_classes[i]:
         accuracyCount+=1
-        print("hit")
-    else: print("miss")
     totalCount+=1
 
 print("acc Count " + str(accuracyCount))
