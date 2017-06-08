@@ -2,450 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff473ee-bab3-4e76-bfec-d2da26055629" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResultGatherSIFT.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preFinalTesting.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preFinalTraining.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/125_800px-Basiliica_of_Bom_Jesus.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/127_800px-Goa_Velha_Basilica_Bom_Jesus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/128_800px-Bom_Jesus_Church%2C_Goa.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/131_800px-Basilica_do_Bom_Jesus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/134_800px-The_Basilica_of_Bom_Jesus_at_Goa.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/162_800px-Basilica_of_Bom_Jesus_-_Old_Goa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/169_798px-Basilica_of_Bom_Jesus_%28Goa%29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/175_450px-Igreja_Bom_Jesus_Goa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/483_Monastery_of_Hosios_Loukas_exterior.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/508_Monastery_of_Hosios_Loukas_exterior_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/509_800px-Osios-loukas.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/640_796px-Monystefano1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/808_800px-PanagiaStilos2%28js%29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/837_800px-07Thessaloniki_12_Apostel01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/878_800px-THESS_-_Aghia_Sophia_05.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/884_800px-Salonique-CP-0016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0105.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0107.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0108.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0111.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0113.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0114.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0116.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0117.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0119.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0120.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0122.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0124.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0125.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0126.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0127.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/106_324px-Torre_Quartier_San_Telmo_%28pano%29.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/118_800px-UNLA_Cine_Tita_Merello_y_fuente.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/124_450px-Torres_Alto_Palermo.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/128_800px-Telecom-argentina.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/131_450px-Edificio_Telecom_%281%29.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/84_448px-Barrio_Saavedra_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/88_450px-Edificio_Estuario.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/99_383px-Diplomatic_Hotel_Mendoza.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0009.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0011.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0012.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0014.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Gothic/02_0015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example_file.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example_fileTraining.dat" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1084_600px-Michel_-_Noord.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1084_600px-Michel_-_Noord.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1312_750px-Chiesa_di_San_Fedele.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1312_750px-Chiesa_di_San_Fedele.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1336_408px-LichtentalerPfarrkirche060128.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1336_408px-LichtentalerPfarrkirche060128.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1640_800px-Karlskirche_Vienna_June_2006_476.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1640_800px-Karlskirche_Vienna_June_2006_476.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1645_800px-Karlskirche_Vienna_June_2006_478.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1645_800px-Karlskirche_Vienna_June_2006_478.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1646_800px-Ben_Martin_-_Kunstzone_Karlsplatz_2008_c.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1646_800px-Ben_Martin_-_Kunstzone_Karlsplatz_2008_c.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1658_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Karola_w_Wiedniu.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1658_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Karola_w_Wiedniu.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1659_800px-Karlskirche_Vienna_June_2006_475.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1659_800px-Karlskirche_Vienna_June_2006_475.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1668_800px-%C3%89glise_Saint-Charles-Borrom%C3%A9e_%28Vienne%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1668_800px-%C3%89glise_Saint-Charles-Borrom%C3%A9e_%28Vienne%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1677_800px-Viena_1087.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1677_800px-Viena_1087.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1678_800px-Karlskirche%2C_Viede%C5%88%2C_Rak%C3%BAsko.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1678_800px-Karlskirche%2C_Viede%C5%88%2C_Rak%C3%BAsko.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1694_629px-Karls_Kirche%2C_Wien_crop.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/1694_629px-Karls_Kirche%2C_Wien_crop.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/180_800px-Besilica_of_Bom_Jesus_5%28Old_Goa_%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/180_800px-Besilica_of_Bom_Jesus_5%28Old_Goa_%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2069_450px-Mariahilfer_Kirche_Vienna_Sept_2006_001.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2069_450px-Mariahilfer_Kirche_Vienna_Sept_2006_001.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2075_450px-Wien_Mariahilfer_Kirche.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2075_450px-Wien_Mariahilfer_Kirche.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2083_450px-Mariahilfkirche.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2083_450px-Mariahilfkirche.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2087_363px-Mariahilfer_Kirche.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2087_363px-Mariahilfer_Kirche.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2187_399px-StJosef-Kahlenberg1981.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2187_399px-StJosef-Kahlenberg1981.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2188_450px-St.Jozefkirche.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2188_450px-St.Jozefkirche.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2189_332px-Kahlenbergkirche_Heiliger_Josef.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2189_332px-Kahlenbergkirche_Heiliger_Josef.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2197_448px-StJosef4.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2197_448px-StJosef4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2258_317px-Jesuitenkirche%2C_Wien1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2258_317px-Jesuitenkirche%2C_Wien1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2293_354px-Wien.JesuitenkircheP.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2293_354px-Wien.JesuitenkircheP.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2392_449px-MichaelerkircheWien.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2392_449px-MichaelerkircheWien.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2396_450px-Michaelerkirche_Vienna_June_2006_325.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2396_450px-Michaelerkirche_Vienna_June_2006_325.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2415_450px-Michaelerkirche_Vienna_June_2006_326.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2415_450px-Michaelerkirche_Vienna_June_2006_326.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2664_800px-BAVIERA_168.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2664_800px-BAVIERA_168.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2665_516px-Theatinerkirche_muc_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2665_516px-Theatinerkirche_muc_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2717_450px-B%C3%BCrgersaal-Kirche%2C_Munich_-_geograph.org.uk_-_7714.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2717_450px-B%C3%BCrgersaal-Kirche%2C_Munich_-_geograph.org.uk_-_7714.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2718_450px-B%C3%BCrgersaal_au%C3%9Fen.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2718_450px-B%C3%BCrgersaal_au%C3%9Fen.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2719_504px-M%C3%BCnchenbilder07-4.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2719_504px-M%C3%BCnchenbilder07-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2728_400px-B%C3%BCrgersaalkirche-bjs0605-02.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2728_400px-B%C3%BCrgersaalkirche-bjs0605-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2729_415px-B%C3%BCrgersaalkirche_M%C3%BCnchen.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2729_415px-B%C3%BCrgersaalkirche_M%C3%BCnchen.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2736_439px-Buergersaal_Muenchen.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2736_439px-Buergersaal_Muenchen.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2739_800px-Muenchen_Buergersaal_Orgel.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2739_800px-Muenchen_Buergersaal_Orgel.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2755_766px-MUC_B%C3%BCrgersaalkircheA.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2755_766px-MUC_B%C3%BCrgersaalkircheA.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2779_400px-St_Michael_Berg_am_Laim.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2779_400px-St_Michael_Berg_am_Laim.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2802_442px-St._Michael_Berg_am_Laim-7.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/2802_442px-St._Michael_Berg_am_Laim-7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/298_450px-Gesuati_facade_Venice.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/298_450px-Gesuati_facade_Venice.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3045_399px-St._Michael-bjs0605-02.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3045_399px-St._Michael-bjs0605-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3052_400px-Michaelskirche_Muenchen-full.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3052_400px-Michaelskirche_Muenchen-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3145_745px-Clemenskirche_K%C3%B6ln-M%C3%BClheim_Haus_M%C3%BClheimer_Ufer_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3145_745px-Clemenskirche_K%C3%B6ln-M%C3%BClheim_Haus_M%C3%BClheimer_Ufer_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3155_738px-K%C3%B6ln_Kirche_St._Clemens08.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3155_738px-K%C3%B6ln_Kirche_St._Clemens08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3158_395px-Clemenskirche_K%C3%B6ln-M%C3%BClheim.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3158_395px-Clemenskirche_K%C3%B6ln-M%C3%BClheim.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3166_800px-St_Clemens_Koeln_Muehlheim.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3166_800px-St_Clemens_Koeln_Muehlheim.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3169_800px-Clemenskirche_K%C3%B6ln-M%C3%BClheim_M%C3%BClheimer_Ufer.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3169_800px-Clemenskirche_K%C3%B6ln-M%C3%BClheim_M%C3%BClheimer_Ufer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3200_401px-Alt_St._Heribert_in_Koeln%2C_von_Westsuedwesten.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3200_401px-Alt_St._Heribert_in_Koeln%2C_von_Westsuedwesten.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3230_399px-Koeln_stmaria_vom_frieden_051208_fassade.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3230_399px-Koeln_stmaria_vom_frieden_051208_fassade.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3276_800px-Schloss_K%C3%B6penick_5.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3276_800px-Schloss_K%C3%B6penick_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3277_800px-Schloss_K%C3%B6penick_9a.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3277_800px-Schloss_K%C3%B6penick_9a.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3280_800px-Schloss_K%C3%B6penick_9.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3280_800px-Schloss_K%C3%B6penick_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3283_440px-Schlosskirche_%28Berlin-K%C3%B6penick%29_Portalseite.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3283_440px-Schlosskirche_%28Berlin-K%C3%B6penick%29_Portalseite.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3285_450px-Berlin_koepenick_schlosskirche.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3285_450px-Berlin_koepenick_schlosskirche.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3300_742px-Berlin%2C_Mitte%2C_Bebelplatz%2C_Hedwigskathedrale_02.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3300_742px-Berlin%2C_Mitte%2C_Bebelplatz%2C_Hedwigskathedrale_02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3377_800px-Deutscher_Dom_2006.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3377_800px-Deutscher_Dom_2006.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3398_386px-Deutscher_Dom_Berlin_Gendarmenmarkt_december_2004.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3398_386px-Deutscher_Dom_Berlin_Gendarmenmarkt_december_2004.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3409_450px-Gendarmenmarkt_Berlin_4.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3409_450px-Gendarmenmarkt_Berlin_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3411_800px-Deutscher_Dom_2006.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3411_800px-Deutscher_Dom_2006.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3414_441px-Gendarmenmarkt_Berlin_5.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3414_441px-Gendarmenmarkt_Berlin_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3419_800px-63_Deutscher_Dom1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3419_800px-63_Deutscher_Dom1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3428_450px-Edificac%C3%A3o.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3428_450px-Edificac%C3%A3o.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3440_609px-Berlin%2C_Mitte%2C_Gendarmenmarkt%2C_Deutscher_Dom_03.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3440_609px-Berlin%2C_Mitte%2C_Gendarmenmarkt%2C_Deutscher_Dom_03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3444_724px-Berlin%2C_Mitte%2C_Gendarmenmarkt%2C_Deutscher_Dom_02.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3444_724px-Berlin%2C_Mitte%2C_Gendarmenmarkt%2C_Deutscher_Dom_02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3454_450px-2009-04-09_Berlin_636.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3454_450px-2009-04-09_Berlin_636.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3471_467px-Berlin_Franzoesicher_Dom_BW_4.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3471_467px-Berlin_Franzoesicher_Dom_BW_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3483_770px-Berlin_Franzoesicher_Dom_BW_5.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3483_770px-Berlin_Franzoesicher_Dom_BW_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3497_799px-2007-07-27_Franz%C3%B6sischer_Dom_Berlin.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3497_799px-2007-07-27_Franz%C3%B6sischer_Dom_Berlin.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3504_450px-66_Franz%C3%B6sischer_Dom1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3504_450px-66_Franz%C3%B6sischer_Dom1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3578_800px-Parochialkirche_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3578_800px-Parochialkirche_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3665_800px-Saint_Peter%27s_Basilica.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3665_800px-Saint_Peter%27s_Basilica.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3718_785px-Petersdom_Rom-1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3718_785px-Petersdom_Rom-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3739_800px-SintPietersBasiliekRome.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3739_800px-SintPietersBasiliekRome.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3742_800px-Rome_%2829290475%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3742_800px-Rome_%2829290475%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3754_800px-St._Peter%27s%2C_Rome%2C_Sept._2011_-_Flickr_-_PhillipC.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3754_800px-St._Peter%27s%2C_Rome%2C_Sept._2011_-_Flickr_-_PhillipC.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3768_800px-Petersdom_september05.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3768_800px-Petersdom_september05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3769_480px-Vatican_Obelisk_St_Peter%27s_Square.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/3769_480px-Vatican_Obelisk_St_Peter%27s_Square.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4106_480px-Vatican_Obelisk_St_Peter%27s_Square.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4106_480px-Vatican_Obelisk_St_Peter%27s_Square.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4108_693px-Facade_of_St_Peters_Basilica_in_morning_light.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4108_693px-Facade_of_St_Peters_Basilica_in_morning_light.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4226_749px-Fountain_in_Saint_Peter%27s_Square%2C_2004.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4226_749px-Fountain_in_Saint_Peter%27s_Square%2C_2004.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4312_449px-Voin_church.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4312_449px-Voin_church.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4330_401px-All_Saints_Church_in_Vsehsvyatskoe_04.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4330_401px-All_Saints_Church_in_Vsehsvyatskoe_04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4359_400px-Petropavlovsky_6_Jan_2010_04.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4359_400px-Petropavlovsky_6_Jan_2010_04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4379_387px-Moscow%2C_Ascension_church_at_Serpukhov_Gates_%283%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4379_387px-Moscow%2C_Ascension_church_at_Serpukhov_Gates_%283%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4388_453px-Church_of_the_Merciful_Saviour_in_Kuskovo_14.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4388_453px-Church_of_the_Merciful_Saviour_in_Kuskovo_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4398_656px-Moscow_Kuskovo_Church%26BT3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4398_656px-Moscow_Kuskovo_Church%26BT3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4406_450px-Donskoy_monastery_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4406_450px-Donskoy_monastery_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/440_450px-Venezia_-_Chiesa_dei_Tolentini.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/440_450px-Venezia_-_Chiesa_dei_Tolentini.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4420_475px-Moscow%2C_Samoteka%2C_Trinity_Church.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4420_475px-Moscow%2C_Samoteka%2C_Trinity_Church.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4425_442px-N_Basmannaya_11_May_2010_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4425_442px-N_Basmannaya_11_May_2010_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4430_499px-N_Basmannaya_11_May_2010_04.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4430_499px-N_Basmannaya_11_May_2010_04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4440_722px-Moscow_Fili_ChurchProtectionTheotokos3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4440_722px-Moscow_Fili_ChurchProtectionTheotokos3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4444_401px-Church_of_the_Protection_of_the_Theotokos_in_Fili_08.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4444_401px-Church_of_the_Protection_of_the_Theotokos_in_Fili_08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4445_503px-Church_of_the_Protection_of_the_Theotokos_in_Fili_00.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4445_503px-Church_of_the_Protection_of_the_Theotokos_in_Fili_00.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/446_581px-Santa_Maria_degli_Scalzi_%28Venice%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/446_581px-Santa_Maria_degli_Scalzi_%28Venice%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4471_600px-Moscow_ChurchStJohnBaptist_podBorom4.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4471_600px-Moscow_ChurchStJohnBaptist_podBorom4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/450_800px-Santa_Maria_degli_Scalzi_%28Venice%29_%285022278791%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/450_800px-Santa_Maria_degli_Scalzi_%28Venice%29_%285022278791%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4565_637px-Chapelle_Ste_Ursule.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4565_637px-Chapelle_Ste_Ursule.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4572_Sorbonnenice.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4572_Sorbonnenice.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/457_450px-Santa_Maria_degli_Scalzi.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/457_450px-Santa_Maria_degli_Scalzi.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/462_800px-Church_near_the_train_station_in_Venice.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/462_800px-Church_near_the_train_station_in_Venice.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/464_800px-Scalzi_Kirche_Venedig.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/464_800px-Scalzi_Kirche_Venedig.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/465_400px-Venice_-_Chiesa_degli_Scalzi_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/465_400px-Venice_-_Chiesa_degli_Scalzi_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4669_450px-%C3%89glise_Val_de_Grace.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4669_450px-%C3%89glise_Val_de_Grace.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4676_800px-Paris_Val_de_grace.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4676_800px-Paris_Val_de_grace.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4682_800px-Exterior_of_%C3%89glise_du_Val-de-Gr%C3%A2ce_015.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4682_800px-Exterior_of_%C3%89glise_du_Val-de-Gr%C3%A2ce_015.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4683_800px-Val_de_grace_church_facade.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4683_800px-Val_de_grace_church_facade.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4684_680px-The_Val-de-Grace.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4684_680px-The_Val-de-Grace.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4689_736px-Exterior_of_%C3%89glise_du_Val-de-Gr%C3%A2ce_013.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4689_736px-Exterior_of_%C3%89glise_du_Val-de-Gr%C3%A2ce_013.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4690_775px-Exterior_of_%C3%89glise_du_Val-de-Gr%C3%A2ce_001.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4690_775px-Exterior_of_%C3%89glise_du_Val-de-Gr%C3%A2ce_001.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/472_794px-Santa_Maria_di_Nazareth_a_Venezia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/472_794px-Santa_Maria_di_Nazareth_a_Venezia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/485_536px-San_Stae_church_along_the_Grand_Canal.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/485_536px-San_Stae_church_along_the_Grand_Canal.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4975_800px-Les_Invalides_3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4975_800px-Les_Invalides_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4976_800px-Paris_-_Les_invalides_-_Le_D%C3%B4me_-_131.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4976_800px-Paris_-_Les_invalides_-_Le_D%C3%B4me_-_131.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4986_400px-Paris_-_Les_invalides_-_Le_D%C3%B4me_-_130.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/4986_400px-Paris_-_Les_invalides_-_Le_D%C3%B4me_-_130.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5004_Last_look_at_the_Invalides_before_heading_off_into_the_cold_%288437830954%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5004_Last_look_at_the_Invalides_before_heading_off_into_the_cold_%288437830954%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5010_686px-Paris_-_Invalidendom1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5010_686px-Paris_-_Invalidendom1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5034_800px-Paris_-_D%C3%B4me_des_Invalides_-_PA00088714_-_001.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5034_800px-Paris_-_D%C3%B4me_des_Invalides_-_PA00088714_-_001.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/503_800px-San-Barnaba-di-Venezia-Venice.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/503_800px-San-Barnaba-di-Venezia-Venice.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5044_400px-Paris_-_Le_D%C3%B4me_des_Invalides_-_118.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5044_400px-Paris_-_Le_D%C3%B4me_des_Invalides_-_118.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/504_800px-5979_-_Venezia_-_S._Barnaba_-_Foto_Giovanni_Dall%27Orto_-_7-Aug-2008.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/504_800px-5979_-_Venezia_-_S._Barnaba_-_Foto_Giovanni_Dall%27Orto_-_7-Aug-2008.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5063_668px-The_Dome_Church_at_Les_Invalides_-_July_2006.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5063_668px-The_Dome_Church_at_Les_Invalides_-_July_2006.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5065_425px-Paris_-_Invalidendom2.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5065_425px-Paris_-_Invalidendom2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5069_399px-D%C3%B4me_des_Invalides%2C_Paris.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5069_399px-D%C3%B4me_des_Invalides%2C_Paris.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5070_456px-Invalides_August_2%2C_1968.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5070_456px-Invalides_August_2%2C_1968.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5079_587px-Invalides_2007_03_11.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5079_587px-Invalides_2007_03_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5084_424px-Paris_-_Invalidendom3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5084_424px-Paris_-_Invalidendom3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5099_400px-Puhane_INvalidendom.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5099_400px-Puhane_INvalidendom.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5234_542px-Facade_Saint-Nicolas-du-Chardonnet_Paris.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5234_542px-Facade_Saint-Nicolas-du-Chardonnet_Paris.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5281_800px-Notre_Dame_des_Victoires_%284325908160%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5281_800px-Notre_Dame_des_Victoires_%284325908160%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5287_450px-Our_Lady_of_Victories_church_in_Paris_%288183412693%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5287_450px-Our_Lady_of_Victories_church_in_Paris_%288183412693%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5400_446px-Eglise_St_Paul_Paris_2012.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/5400_446px-Eglise_St_Paul_Paris_2012.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/545_572px-Chiesa_di_San_Luca_Venezia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/545_572px-Chiesa_di_San_Luca_Venezia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/579_800px-20110724_Venice_Santa_Maria_della_Salute_5159.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/579_800px-20110724_Venice_Santa_Maria_della_Salute_5159.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/612_725px-Santa_Maria_della_Salute_in_Venice_001.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/612_725px-Santa_Maria_della_Salute_in_Venice_001.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/617_548px-Venedig_s_maria_della_salut_crop.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/617_548px-Venedig_s_maria_della_salut_crop.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/723_572px-San_Rocco_Venezia_%28Facciata%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/723_572px-San_Rocco_Venezia_%28Facciata%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/745_450px-San_rocco_venezia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/745_450px-San_rocco_venezia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/752_746px-Venezia-Chiesa_San_Marcuola.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/752_746px-Venezia-Chiesa_San_Marcuola.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/760_450px-San_Biagio%2C_Venice.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/760_450px-San_Biagio%2C_Venice.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/761_800px-Chiesa_di_San_Biagio_%28Venice%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/761_800px-Chiesa_di_San_Biagio_%28Venice%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/767_541px-Chiesa_di_San_Moise.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/767_541px-Chiesa_di_San_Moise.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/783_643px-San_Moise_%28Venice%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/783_643px-San_Moise_%28Venice%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/825_394px-Venezia_-_Chiesa_delle_Cappuccine.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/825_394px-Venezia_-_Chiesa_delle_Cappuccine.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/832_450px-Venice_%2830324876%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/832_450px-Venice_%2830324876%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/867_394px-Chiesa_della_Piet%C3%A0_Venezia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/867_394px-Chiesa_della_Piet%C3%A0_Venezia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/870_498px-Venezia_-_Chiesa_della_Piet%C3%A0.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Baroque/870_498px-Venezia_-_Chiesa_della_Piet%C3%A0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1012_800px-Parko_Thiseio.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1012_800px-Parko_Thiseio.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1023_450px-Church_of_the_Holy_Apostles_Athens_Greece.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1023_450px-Church_of_the_Holy_Apostles_Athens_Greece.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1044_800px-0847_-_Athens_-_Agii_Theodori_church_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_11_2009.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1044_800px-0847_-_Athens_-_Agii_Theodori_church_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_11_2009.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1065_800px-Mystras_%C3%A9glise.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1065_800px-Mystras_%C3%A9glise.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1073_800px-Mistra_11.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1073_800px-Mistra_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1241_800px-Mount_Athos_administration_building.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1241_800px-Mount_Athos_administration_building.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1255_450px-Church_of_Saint_Nikita_in_Shvivaya_Gorka_14.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1255_450px-Church_of_Saint_Nikita_in_Shvivaya_Gorka_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1302_783px-Prodromos-2.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1302_783px-Prodromos-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1653_800px-Iverskoy_na_Vspolye_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1653_800px-Iverskoy_na_Vspolye_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1654_685px-Moscow_ChurchTheotokosIviron_Vspolye.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1654_685px-Moscow_ChurchTheotokosIviron_Vspolye.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1658_443px-Valdaysky_Monastery_24.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1658_443px-Valdaysky_Monastery_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1661_800px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%98%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1661_800px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%98%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1667_450px-Valdaysky_Monastery_30.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1667_450px-Valdaysky_Monastery_30.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1671_450px-Valdaysky_Monastery_31.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1671_450px-Valdaysky_Monastery_31.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1875_800px-Rotunda_of_Galerius_%28February_2009%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1875_800px-Rotunda_of_Galerius_%28February_2009%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1877_800px-Rotonda_%282%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1877_800px-Rotonda_%282%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1881_800px-Thesaloniki-Tomb_of_Galerius_%28right_side%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1881_800px-Thesaloniki-Tomb_of_Galerius_%28right_side%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1948_800px-St_Demetrius_Tarnovo_Klearchos_2.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1948_800px-St_Demetrius_Tarnovo_Klearchos_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1954_Pantokrator_kerk_Nesebar.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1954_Pantokrator_kerk_Nesebar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1956_800px-Nesebar_DSC00081.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1956_800px-Nesebar_DSC00081.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1958_Nesebur_bg.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1958_Nesebur_bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1959_800px-Church_of_Christ_Pantocrator_Nesebar_north_TB.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1959_800px-Church_of_Christ_Pantocrator_Nesebar_north_TB.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1960_800px-Nesebyr_%28Aw58-MW%29DSC_0284.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1960_800px-Nesebyr_%28Aw58-MW%29DSC_0284.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1962_800px-Sunny_Beach_Nesebar_centre_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1962_800px-Sunny_Beach_Nesebar_centre_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1965_800px-Sunny_Beach_Nesebar_centre_2.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1965_800px-Sunny_Beach_Nesebar_centre_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1967_Nesebar_-_Church_of_Christ_Pantocrator.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/1967_Nesebar_-_Church_of_Christ_Pantocrator.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2112_Nessebar3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2112_Nessebar3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2116_Nesebar_-_Church_of_St_John_Aliturgetos.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2116_Nesebar_-_Church_of_St_John_Aliturgetos.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2119_800px-St_John_Aliturgetos_church_-_Nesebar_-_3.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2119_800px-St_John_Aliturgetos_church_-_Nesebar_-_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2120_800px-Iglesia_de_San_Juan_Aliturgetos_-_5.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2120_800px-Iglesia_de_San_Juan_Aliturgetos_-_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2135_800px-Church_of_Saint_Paraskeva_Nesebar_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2135_800px-Church_of_Saint_Paraskeva_Nesebar_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2310_Pitsunda_cathedral.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2310_Pitsunda_cathedral.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2314_800px-Dranda_cathedral.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2314_800px-Dranda_cathedral.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2316_800px-Dranda.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2316_800px-Dranda.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2325_800px-PitsundaCathedral.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2325_800px-PitsundaCathedral.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2335_Pitsunda_Cathedral.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2335_Pitsunda_Cathedral.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2336_Pitsunda_cathedral.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2336_Pitsunda_cathedral.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2535_800px-2012_ravenna_134.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2535_800px-2012_ravenna_134.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2539_742px-2012_ravenna_133.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2539_742px-2012_ravenna_133.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2706_800px-San_Vitale_Ravenna.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2706_800px-San_Vitale_Ravenna.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2712_800px-Ravenna-sanvitale05.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2712_800px-Ravenna-sanvitale05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2803_Basilica_St._Mark.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2803_Basilica_St._Mark.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2807_800px-55BasilicaSMarco.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2807_800px-55BasilicaSMarco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2821_800px-Veneza47.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2821_800px-Veneza47.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2831_St-marks-picture.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2831_St-marks-picture.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2838_800px-St_Marks_Basilica_1_%287236205690%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/2838_800px-St_Marks_Basilica_1_%287236205690%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3499_800px-San_marco_by_vgm8383_.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3499_800px-San_marco_by_vgm8383_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3648_772px-TorreDell%27Orologio.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3648_772px-TorreDell%27Orologio.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3659_Ponti%2C_Carlo_%28ca._1823-1893%29_-_Venezia_-_Torre_dell%27orologio.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3659_Ponti%2C_Carlo_%28ca._1823-1893%29_-_Venezia_-_Torre_dell%27orologio.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3660_799px-Piazza_San_Marco_from_the_lagoon.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3660_799px-Piazza_San_Marco_from_the_lagoon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3664_417px-Torre_dell%27orologio_%28Venezia%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3664_417px-Torre_dell%27orologio_%28Venezia%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3672_527px-Torre_dell%27orologio_Venezia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3672_527px-Torre_dell%27orologio_Venezia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3688_71VeneziaTorreOrologio.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3688_71VeneziaTorreOrologio.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3766_513px-Naya%2C_Carlo_%281816-1882%29_-_n._43_-_Venezia_-_Orologio.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/3766_513px-Naya%2C_Carlo_%281816-1882%29_-_n._43_-_Venezia_-_Orologio.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4212_400px-Venice_-_Doge%27s_Palace_-_Loggia_on_the_Piazzetta_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4212_400px-Venice_-_Doge%27s_Palace_-_Loggia_on_the_Piazzetta_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4655_796px-Carlo_Ponti_Venezia_11.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4655_796px-Carlo_Ponti_Venezia_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4949_800px-Sede_Patriarcale_%28Venice%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4949_800px-Sede_Patriarcale_%28Venice%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4957_524px-Pal_Patriarcale_Venezia_San_Marco.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/4957_524px-Pal_Patriarcale_Venezia_San_Marco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/885_800px-07Thessaloniki_Agia_Sophia01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/885_800px-07Thessaloniki_Agia_Sophia01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/889_800px-Holy_Wisdom_Salonica_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/889_800px-Holy_Wisdom_Salonica_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/892_800px-Salonique-CP-0034.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/892_800px-Salonique-CP-0034.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/894_800px-Thessaloniki_-_Agia_Sophia.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/894_800px-Thessaloniki_-_Agia_Sophia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/897_495px-Mesjid-Aya-Sofia-Salonika.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/897_495px-Mesjid-Aya-Sofia-Salonika.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/903_495px-Holy_Wisdom_Thessaloniki_as_Moslem_Temple.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/903_495px-Holy_Wisdom_Thessaloniki_as_Moslem_Temple.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/952_Macedonian_Museums-80-Arx_Krypth_Ag_Dhmhtriou-351.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/952_Macedonian_Museums-80-Arx_Krypth_Ag_Dhmhtriou-351.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/986_Capnikarea_Church_at_Athens.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/986_Capnikarea_Church_at_Athens.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/988_%CE%9A%CE%B1%CF%80%CE%BD%CE%B9%CE%BA%CE%B1%CF%81%CE%AD%CE%B1_%CE%91%CE%B8%CE%AE%CE%BD%CE%B1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Byzantine/988_%CE%9A%CE%B1%CF%80%CE%BD%CE%B9%CE%BA%CE%B1%CF%81%CE%AD%CE%B1_%CE%91%CE%B8%CE%AE%CE%BD%CE%B1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0018.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0018.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0019.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0019.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0020.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0020.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0022.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0022.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0023.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0023.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0024.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0024.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0025.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0025.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0026.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0026.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0027.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0027.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0034.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0034.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0036.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0036.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0037.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0037.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0038.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0038.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0040.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0040.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0041.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0041.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0042.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0042.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0043.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0043.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0044.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0044.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0045.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0045.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0046.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0046.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0047.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0047.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0048.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0048.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0049.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0049.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0050.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0050.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0051.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0051.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0052.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0052.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0053.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0053.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0055.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0055.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0057.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0057.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0058.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0058.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0059.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0059.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0060.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0060.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0061.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0061.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0062.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0062.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0063.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0063.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0064.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0064.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0065.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0065.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0066.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0066.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0067.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0067.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0068.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0068.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0069.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0069.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0070.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0070.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0071.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0071.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0072.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0072.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0073.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0073.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0074.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0074.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0075.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0075.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0076.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0076.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0077.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0077.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0078.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0078.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0079.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0079.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0100.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0100.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0101.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0101.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0102.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0102.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0103.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0103.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0104.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0104.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0128.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0128.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0129.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0129.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0130.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/02_0130.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/060806-France-Paris-Notre_Dame.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/060806-France-Paris-Notre_Dame.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/1280px-cathedral_of_exeter_edit.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/1280px-cathedral_of_exeter_edit.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/20356-004-21DBD200.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/20356-004-21DBD200.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/800px-beauvais_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/800px-beauvais_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Exeter-Cathedral.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Exeter-Cathedral.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Expiatorio_GDL.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Expiatorio_GDL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Notre_Dame_Cathedral_-_Paris.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Notre_Dame_Cathedral_-_Paris.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Reims-Cathedral-Facade.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Reims-Cathedral-Facade.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Reims_Kathedrale.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Reims_Kathedrale.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/RiponCathedralFacade.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/RiponCathedralFacade.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Tours_Cathedral_Saint-Gatian_adj.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/Tours_Cathedral_Saint-Gatian_adj.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/cathedrale_rouen_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/cathedrale_rouen_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/catholic-church-gothic-architecture-style-22449845.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/catholic-church-gothic-architecture-style-22449845.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/gothic_architecture.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/gothic_architecture.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/image002.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Gothic/image002.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1395_347px-W_Barcelona_2013.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1395_347px-W_Barcelona_2013.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1398_800px-Vela_Hotel_W_Barcelona.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1398_800px-Vela_Hotel_W_Barcelona.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1422_800px-Walden-7_Sant_Just_Desvern_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1422_800px-Walden-7_Sant_Just_Desvern_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1494_401px-Chicago_2007-2.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1494_401px-Chicago_2007-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1497_336px-Chicago_United_Continental_Building_07.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1497_336px-Chicago_United_Continental_Building_07.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1501_800px-35_Quatre_barres_i_Hotel_W.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1501_800px-35_Quatre_barres_i_Hotel_W.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1533_639px-UAlbanyStateQuad.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1533_639px-UAlbanyStateQuad.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/153_574px-Buenos_Aires_2.0.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/153_574px-Buenos_Aires_2.0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1566_800px-Marriott_hotel_and_Busch_Stadium_II_St._Louis_August_2004.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1566_800px-Marriott_hotel_and_Busch_Stadium_II_St._Louis_August_2004.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/156_450px-Buenos_Aires_-_Talcahuano_y_Tucum%C3%A1n.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/156_450px-Buenos_Aires_-_Talcahuano_y_Tucum%C3%A1n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/160_449px-Sheraton_mendo.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/160_449px-Sheraton_mendo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1786_800px-Piramides.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1786_800px-Piramides.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1798_480px-Hillside_West.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1798_480px-Hillside_West.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1805_400px-Spiral-Building-Aoyama-00.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/1805_400px-Spiral-Building-Aoyama-00.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/194_800px-Sheraton_Mar_del_Plata_desde_rotonda_del_Golf.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/194_800px-Sheraton_Mar_del_Plata_desde_rotonda_del_Golf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/221_530px-Buenos_Aires_Reserva_Ecol%C3%B3gica.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/221_530px-Buenos_Aires_Reserva_Ecol%C3%B3gica.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/222_RepsolArgentina.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/222_RepsolArgentina.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/223_398px-Repsol-YPF_Tower_Skyhigh.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/223_398px-Repsol-YPF_Tower_Skyhigh.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/261_800px-Torres_de_Manantiales_desde_la_torre_de_agua.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/261_800px-Torres_de_Manantiales_desde_la_torre_de_agua.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/264_800px-Torres_de_Manantiales_desde_la_costanera.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/264_800px-Torres_de_Manantiales_desde_la_costanera.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3059_769px-51_Astor_Place.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3059_769px-51_Astor_Place.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3060_452px-Astor_Place_2013.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3060_452px-Astor_Place_2013.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3061_533px-51_Astor_Place_from_East_8th_Street.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3061_533px-51_Astor_Place_from_East_8th_Street.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3077_480px-Yokohama_Island_Tower.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3077_480px-Yokohama_Island_Tower.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3100_749px-National_Museum_of_Modern_Art_Kyoto_2010.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3100_749px-National_Museum_of_Modern_Art_Kyoto_2010.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3109_400px-Toki-Messe-01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3109_400px-Toki-Messe-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3174_HumanaBuilding1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3174_HumanaBuilding1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3176_Humana_National_City.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3176_Humana_National_City.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3238_397px-Byker_Wall_-_geograph.org.uk_-_933394.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3238_397px-Byker_Wall_-_geograph.org.uk_-_933394.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3258_400px-Tomcollinshouse_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3258_400px-Tomcollinshouse_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3259_450px-Tom_Collins_House%2C_Byker_Wall_-_geograph.org.uk_-_1775471.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3259_450px-Tom_Collins_House%2C_Byker_Wall_-_geograph.org.uk_-_1775471.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3274_450px-G%C3%B6teborg_Utkiken-Turm_.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3274_450px-G%C3%B6teborg_Utkiken-Turm_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3278_397px-Skanskaskrapan_september_2012.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/3278_397px-Skanskaskrapan_september_2012.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/338_400px-Torre_Claro%2C_Buenos_Aires.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/338_400px-Torre_Claro%2C_Buenos_Aires.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/350_450px-Torres_El_Faro_en_Puerto_Madero.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/350_450px-Torres_El_Faro_en_Puerto_Madero.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/359_450px-Dolfines_Guaran%C3%AD_N.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/359_450px-Dolfines_Guaran%C3%AD_N.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/370_450px-Pirelli_Retiro.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/370_450px-Pirelli_Retiro.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4195_450px-Ginza_Kabukiza_2013_0428.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4195_450px-Ginza_Kabukiza_2013_0428.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4207_446px-Cocon-Karasuma-01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4207_446px-Cocon-Karasuma-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4269_450px-Berlin_Eosanderstra%C3%9Fe_Kollhoff.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4269_450px-Berlin_Eosanderstra%C3%9Fe_Kollhoff.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4275_375px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_08.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4275_375px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4277_397px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_07.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4277_397px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_07.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4278_450px-Main_plaza_frankfurt.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4278_450px-Main_plaza_frankfurt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4281_401px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4281_401px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4289_397px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_06.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4289_397px-Main_Plaza_-_Frankfurt_Main_-_Germany_-_06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4313_800px-Potsplatz.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4313_800px-Potsplatz.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4314_450px-Berlin_Ampel.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4314_450px-Berlin_Ampel.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4316_800px-Berlin_-_Beisheim-Center_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4316_800px-Berlin_-_Beisheim-Center_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4325_795px-Michael_Stolle.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4325_795px-Michael_Stolle.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4340_734px-Berlin%2C_Tiergarten%2C_Potsdamer_Platz%2C_Beisheim_Center_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4340_734px-Berlin%2C_Tiergarten%2C_Potsdamer_Platz%2C_Beisheim_Center_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4381_450px-Potsdamer_Platz_-_Kollhoff-Tower%2C_20060603.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4381_450px-Potsdamer_Platz_-_Kollhoff-Tower%2C_20060603.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4388_398px-Berlin-zentrum-by-RalfR-019.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4388_398px-Berlin-zentrum-by-RalfR-019.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4404_600px-13-04-29-potsdamer-plat-by-RalfR-12.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4404_600px-13-04-29-potsdamer-plat-by-RalfR-12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4414_398px-13-04-29-potsdamer-plat-by-RalfR-61.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4414_398px-13-04-29-potsdamer-plat-by-RalfR-61.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4417_398px-13-04-29-potsdamer-plat-by-RalfR-66.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4417_398px-13-04-29-potsdamer-plat-by-RalfR-66.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4492_398px-13-04-29-potsdamer-plat-by-RalfR-23.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4492_398px-13-04-29-potsdamer-plat-by-RalfR-23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4547_537px-Wien_Donau_City_Saturn_Tower.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4547_537px-Wien_Donau_City_Saturn_Tower.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4682_450px-Seagrambuilding.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4682_450px-Seagrambuilding.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4696_450px-PPG_Place.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4696_450px-PPG_Place.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4802_435px-Crystal_Cathedral_Spire_looking_up.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4802_435px-Crystal_Cathedral_Spire_looking_up.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4831_449px-Comericatowerhart.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4831_449px-Comericatowerhart.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4832_613px-Promenade_2%2C_One_Atlantic_Center.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4832_613px-Promenade_2%2C_One_Atlantic_Center.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4833_450px-4_One_Atlantic_Center.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4833_450px-4_One_Atlantic_Center.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4834_400px-One_Atlantic_Center_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4834_400px-One_Atlantic_Center_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4836_459px-Three_Eras_-_Houston.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4836_459px-Three_Eras_-_Houston.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4837_450px-BOAC_bottom.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4837_450px-BOAC_bottom.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4839_450px-Bank_of_America_Center_Houston_1.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4839_450px-Bank_of_America_Center_Houston_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4840_450px-One_Shell_Plaza_Bank_of_America_Center.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4840_450px-One_Shell_Plaza_Bank_of_America_Center.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4841_450px-Building4_houston.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4841_450px-Building4_houston.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4855_450px-Sony_Building_by_David_Shankbone.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4855_450px-Sony_Building_by_David_Shankbone.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4860_350px-Sony_Building_by_David_Shankbone_crop.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4860_350px-Sony_Building_by_David_Shankbone_crop.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4886_450px-Foto_una_de_las_Torres_KIO_de_Madrid.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4886_450px-Foto_una_de_las_Torres_KIO_de_Madrid.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4897_450px-Torre_Kio_I.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4897_450px-Torre_Kio_I.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4908_452px-Torre_Puerta_de_Europa_de_Madrid.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4908_452px-Torre_Puerta_de_Europa_de_Madrid.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4913_412px-Puerta_de_Europa_I_%28Madrid%29_01.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4913_412px-Puerta_de_Europa_I_%28Madrid%29_01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4919_800px-Plaza_castilla_madrid.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4919_800px-Plaza_castilla_madrid.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4961_366px-Lipstick_Building%2C_taken_by_Arnd_Otto_Dewald.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4961_366px-Lipstick_Building%2C_taken_by_Arnd_Otto_Dewald.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4964_397px-Lipstick_Building_-_Philip_Johnson.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4964_397px-Lipstick_Building_-_Philip_Johnson.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4966_354px-Lipstick_building.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/4966_354px-Lipstick_building.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/5188_450px-190_South_LaSalle_Street%2C_Chicago.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/5188_450px-190_South_LaSalle_Street%2C_Chicago.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/542_400px-Torre_Claro%2C_Buenos_Aires.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/542_400px-Torre_Claro%2C_Buenos_Aires.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/558_Teatro_Argentino%2C_La_Plata_0015.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/558_Teatro_Argentino%2C_La_Plata_0015.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/588_Hurricane-Katrina-Grand-Casino-Gulfport-hotel-EPA.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/588_Hurricane-Katrina-Grand-Casino-Gulfport-hotel-EPA.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/589_450px-Asia_tower.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/589_450px-Asia_tower.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/590_450px-2828_Peachtree%2C_Garden_Hills%2C_Atlanta_GA.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/590_450px-2828_Peachtree%2C_Garden_Hills%2C_Atlanta_GA.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/593_450px-Bell_atlantic_tower.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/593_450px-Bell_atlantic_tower.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/598_421px-Connecticut_Financial_Center_cropped.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/598_421px-Connecticut_Financial_Center_cropped.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/599_450px-2006_Wells_Fargo_Center%2C_Salt_Lake_City.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/599_450px-2006_Wells_Fargo_Center%2C_Salt_Lake_City.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/605_364px-1201_Walnut-Kansas_City_MO.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/605_364px-1201_Walnut-Kansas_City_MO.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/614_527px-AT%26T_Building%2C_Omaha%2C_Nebraska.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/614_527px-AT%26T_Building%2C_Omaha%2C_Nebraska.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/642_400px-Perth-bank.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/642_400px-Perth-bank.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/652_465px-Bankwest_Tower.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/652_465px-Bankwest_Tower.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/683_450px-Q1_luke.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/683_450px-Q1_luke.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/942_450px-K11_Shanghai.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/942_450px-K11_Shanghai.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/953_450px-Bank_of_China_Tower_%28Hong_Kong%29.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/953_450px-Bank_of_China_Tower_%28Hong_Kong%29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/964_445px-Bank_of_China_Tower_daytime.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/LearningSet/Postmodern/964_445px-Bank_of_China_Tower_daytime.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/svm_light/svm_classify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/svm_light/svm_learn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/svm_light/svm_light_linux64.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/baseGame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/downloadScript.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/svm_light/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/svm_light/imageLinks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/svm_light/model_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/svm_light/output_file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Others/tkinterGame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResultGatherLBP.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lbpresult raw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tester.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloadScript.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/siftFeatureCreator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/svm_light/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/svm_light/imageLinks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/svm_light/model_file" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/svm_light/output_file" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/svm_light/svm_classify" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/svm_light/svm_learn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/svm_light/svm_light_linux64.tar.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/103_800px-Old_Goa_Church_02.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/103_800px-Old_Goa_Church_02.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/117_800px-Basilica_of_BomJesus.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/117_800px-Basilica_of_BomJesus.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/121_450px-Basilica_of_Bom_Jesus.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Baroque/121_450px-Basilica_of_Bom_Jesus.jpg" />
@@ -472,7 +51,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/63_797px-Construccion_en_Buenos_Aires.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/63_797px-Construccion_en_Buenos_Aires.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/64_800px-Posadas-plaza-shopping.jpg" afterPath="$PROJECT_DIR$/Resources/MajorProjectResources/TestingSet/Postmodern/64_800px-Posadas-plaza-shopping.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ResultGatherSIFT.py" afterPath="$PROJECT_DIR$/ResultGatherSIFT.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSIFT.py" afterPath="$PROJECT_DIR$/TestSIFT.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/localbinarypatterns.py" afterPath="$PROJECT_DIR$/localbinarypatterns.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preFinalTesting.py" afterPath="$PROJECT_DIR$/preFinalTesting.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recognize.py" afterPath="$PROJECT_DIR$/recognize.py" />
     </list>
     <ignored path="Graduate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -486,17 +69,23 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Graduate$ResultGatherSIFT__1_.coverage" NAME="ResultGatherSIFT (1) Coverage Results" MODIFIED="1496251030243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Graduate$sinemSIFT.coverage" NAME="sinemSIFT Coverage Results" MODIFIED="1495057703446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Graduate$siftFeatureCreator.coverage" NAME="siftFeatureCreator Coverage Results" MODIFIED="1495059620069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Graduate$TrainSIFT.coverage" NAME="TrainSIFT Coverage Results" MODIFIED="1496234597452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Graduate$TestSIFT.coverage" NAME="TestSIFT Coverage Results" MODIFIED="1496236199053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$TrainSIFT.coverage" NAME="TrainSIFT Coverage Results" MODIFIED="1496312521721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$lbpresult_raw.coverage" NAME="lbpresult raw Coverage Results" MODIFIED="1496558451541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$siftFeatureCreator.coverage" NAME="siftFeatureCreator Coverage Results" MODIFIED="1496896753117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Graduate$localbinarypatterns.coverage" NAME="localbinarypatterns Coverage Results" MODIFIED="1488457979570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Graduate$sinemSIFTTEST.coverage" NAME="sinemSIFTTEST Coverage Results" MODIFIED="1495071406141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Graduate$downloadScript.coverage" NAME="downloadScript Coverage Results" MODIFIED="1491418937617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm_light" />
-    <SUITE FILE_PATH="coverage/Graduate$Unittests_in_Graduate.coverage" NAME="Unittests in Graduate Coverage Results" MODIFIED="1490481359419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Graduate$recognize.coverage" NAME="recognize Coverage Results" MODIFIED="1495057188770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Graduate$ResultGatherSIFT.coverage" NAME="ResultGatherSIFT Coverage Results" MODIFIED="1495086744917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$ResultGatherSIFT__1_.coverage" NAME="ResultGatherSIFT (1) Coverage Results" MODIFIED="1496897751543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$TestSIFT.coverage" NAME="TestSIFT Coverage Results" MODIFIED="1496312380002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$preFinalLBPRecognizer.coverage" NAME="preFinalLBPRecognizer Coverage Results" MODIFIED="1496451749849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$tester.coverage" NAME="tester Coverage Results" MODIFIED="1496440699632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$tkinterGame.coverage" NAME="tkinterGame Coverage Results" MODIFIED="1496598486632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$ResultGatherLBP.coverage" NAME="ResultGatherLBP Coverage Results" MODIFIED="1496897893160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$sinemSIFTTEST.coverage" NAME="sinemSIFTTEST Coverage Results" MODIFIED="1495071406141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$baseGame.coverage" NAME="baseGame Coverage Results" MODIFIED="1496596541997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$Unittests_in_Graduate.coverage" NAME="Unittests in Graduate Coverage Results" MODIFIED="1490481359419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graduate$recognize.coverage" NAME="recognize Coverage Results" MODIFIED="1496450992309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -507,58 +96,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestSIFT.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestSIFT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preFinalTesting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preFinalTesting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrainSIFT.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TrainSIFT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preFinalTraining.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="preFinalTraining.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preFinalTraining.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="92" column="71" selection-start-line="92" selection-start-column="71" selection-end-line="92" selection-end-column="71" />
+            <state relative-caret-position="1230">
+              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResultGatherSIFT.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ResultGatherSIFT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -579,20 +122,29 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Resources/Tools.py" />
-        <option value="$PROJECT_DIR$/localbinarypatterns.py" />
         <option value="$PROJECT_DIR$/svm_light/imageLinks" />
         <option value="$PROJECT_DIR$/svm_light/downloadScript.py" />
         <option value="$PROJECT_DIR$/Tools.py" />
-        <option value="$PROJECT_DIR$/recognize.py" />
         <option value="$PROJECT_DIR$/sinemSIFT.py" />
-        <option value="$PROJECT_DIR$/siftFeatureCreator.py" />
         <option value="$PROJECT_DIR$/sinemSIFTTEST.py" />
+        <option value="$PROJECT_DIR$/preFinalTesting.py" />
         <option value="$PROJECT_DIR$/TrainSIFT.py" />
         <option value="$PROJECT_DIR$/TestSIFT.py" />
-        <option value="$PROJECT_DIR$/preFinalTraining.py" />
-        <option value="$PROJECT_DIR$/preFinalTesting.py" />
-        <option value="$PROJECT_DIR$/ResultGatherSIFT.py" />
+        <option value="$PROJECT_DIR$/LBPResultGather.py" />
+        <option value="$PROJECT_DIR$/tester.py" />
+        <option value="$PROJECT_DIR$/recognize.py" />
+        <option value="$PROJECT_DIR$/localbinarypatterns.py" />
+        <option value="$PROJECT_DIR$/outputLBP.txt" />
+        <option value="$PROJECT_DIR$/preFinalLBPRecognizer.py" />
         <option value="$PROJECT_DIR$/output.txt" />
+        <option value="$PROJECT_DIR$/outputDup" />
+        <option value="$PROJECT_DIR$/lbpresult raw.py" />
+        <option value="$PROJECT_DIR$/baseGame.py" />
+        <option value="$PROJECT_DIR$/tkinterGame.py" />
+        <option value="$PROJECT_DIR$/siftFeatureCreator.py" />
+        <option value="$PROJECT_DIR$/preFinalTraining.py" />
+        <option value="$PROJECT_DIR$/ResultGatherLBP.py" />
+        <option value="$PROJECT_DIR$/ResultGatherSIFT.py" />
       </list>
     </option>
   </component>
@@ -604,9 +156,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="y" value="52" />
+    <option name="width" value="927" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -633,8 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -663,30 +213,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graduate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MajorProjectResources" />
+              <option name="myItemId" value="Others" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -698,82 +232,121 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Others" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ResultGatherSIFT (1)">
-    <configuration default="false" name="sinemSIFTTEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Graduate" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sinemSIFTTEST.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestSIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Graduate" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSIFT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ResultGatherSIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Graduate" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainSIFT.py" />
-      <option name="PARAMETERS" value="5 true Baroque Gothic" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TrainSIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Graduate" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainSIFT.py" />
-      <option name="PARAMETERS" value="5 true Baroque Gothic" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager" selected="Python.ResultGatherLBP">
     <configuration default="false" name="ResultGatherSIFT (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -788,6 +361,78 @@
       <module name="Graduate" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResultGatherSIFT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="baseGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graduate" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/baseGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tkinterGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graduate" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/tkinterGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="siftFeatureCreator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graduate" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/siftFeatureCreator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ResultGatherLBP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graduate" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResultGatherLBP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1001,19 +646,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sinemSIFTTEST" />
-      <item index="1" class="java.lang.String" itemvalue="Python.TestSIFT" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ResultGatherSIFT" />
-      <item index="3" class="java.lang.String" itemvalue="Python.TrainSIFT" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ResultGatherSIFT (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ResultGatherSIFT (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.baseGame" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tkinterGame" />
+      <item index="3" class="java.lang.String" itemvalue="Python.siftFeatureCreator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ResultGatherLBP" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ResultGatherSIFT (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TestSIFT" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TrainSIFT" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ResultGatherSIFT" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sinemSIFTTEST" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ResultGatherLBP" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ResultGatherSIFT (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.siftFeatureCreator" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tkinterGame" />
+        <item index="4" class="java.lang.String" itemvalue="Python.baseGame" />
       </list>
     </recent_temporary>
   </component>
@@ -1038,7 +683,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495076127979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sift working">
+      <created>1496251097902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496251097902</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1059,17 +711,17 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="52" width="927" height="1028" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24365872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34088457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45603576" sideWeight="0.50269026" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3442623" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3434555" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25782415" sideWeight="0.49730977" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16544503" sideWeight="0.49730977" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1102,91 +754,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_file.dat" />
-    <entry file="file://$PROJECT_DIR$/Tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_file.dat" />
-    <entry file="file://$PROJECT_DIR$/Tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_file.dat" />
-    <entry file="file://$PROJECT_DIR$/Tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example_file.dat" />
     <entry file="file://$PROJECT_DIR$/Tools.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1285,51 +857,16 @@
     <entry file="file://$PROJECT_DIR$/Resources/laPedrera.jpg" />
     <entry file="file://$PROJECT_DIR$/bub.jpg" />
     <entry file="file://$PROJECT_DIR$/example_fileTraining.dat" />
-    <entry file="file://$PROJECT_DIR$/svm_light/imageLinks">
+    <entry file="file://$PROJECT_DIR$/Others/svm_light/imageLinks">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2231">
           <caret line="1108" column="0" selection-start-line="1108" selection-start-column="0" selection-end-line="1108" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/downloadScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example_file.dat" />
     <entry file="file://$PROJECT_DIR$/sinemSIFT.py" />
-    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sinemSIFTTEST.py" />
-    <entry file="file://$PROJECT_DIR$/localbinarypatterns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Notes Graduate Project">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1344,43 +881,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TrainSIFT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestSIFT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preFinalTesting.py">
+    <entry file="file://$PROJECT_DIR$/outRaw.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preFinalTraining.py">
+    <entry file="file://$PROJECT_DIR$/outputLBP.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="92" column="71" selection-start-line="92" selection-start-column="71" selection-end-line="92" selection-end-column="71" />
+        <state relative-caret-position="-11712">
+          <caret line="846" column="26" selection-start-line="846" selection-start-column="26" selection-end-line="846" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputDup" />
+    <entry file="file://$PROJECT_DIR$/outSIFTRaw.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/tkinterGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
+    <entry file="file://$PROJECT_DIR$/Others/baseGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/downloadScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.pkl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1388,13 +958,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ResultGatherSIFT.py">
+    <entry file="file://$PROJECT_DIR$/Notes Graduate Project">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1524">
+          <caret line="1892" column="26" selection-start-line="1892" selection-start-column="26" selection-end-line="1892" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputDup.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localbinarypatterns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preFinalTesting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siftFeatureCreator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/understandingSIFT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResultGatherLBP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResultGatherSIFT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preFinalLBPRecognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lbpresult raw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LBPResultGather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preFinalTraining.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

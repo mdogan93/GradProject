@@ -3,9 +3,11 @@ import subprocess
 import os
 import time
 
-kValueList = [ 10,20,50,75,100,150,200 ]
-# kValueList = [ 75,100]
+now = time.time()
+
+# kValueList = [ 10,20,50,75,100,150,200 ]
 classCount = [ 2,3,4,5,10 ]
+numOfPointsRadiusList = [[8,3],[16,3],[16,4],[32,4],[32,5],[64,5],[64,6]]
 dataSetEqualSize = True
 
 
@@ -22,8 +24,6 @@ training_names = os.listdir(train_path)
 #     class_id += 1
 # print(training_names)
 
-
-
 for item in classCount:
     i = 0
     while i+item <= len(training_names):
@@ -33,15 +33,12 @@ for item in classCount:
 
         # print(' '.join(testClasses))
 
-        for kVal in kValueList:
+        for numOfPoints,radius in numOfPointsRadiusList:
             for x in range(2):
-                # print(r'python preFinalTraining.py '+ str(kVal) + ' '+ str(dataSetEqualSize)  + ' ' + ' '.join(testClasses) + '>> output.txt')
-                # print(r'python preFinalTesting.py '+ ' '.join(testClasses) + '>> output.txt')
+                # print(r'python preFinalLBPRecognizer.py '+ str(numOfPoints) + ' '+ str(radius) + ' ' + str(dataSetEqualSize)  + ' ' + ' '.join(testClasses) + '>> outputLBP.txt')
 
-                processTrain=subprocess.check_output(r'python preFinalTraining.py '+ str(kVal) + ' '+ str(dataSetEqualSize)  + ' ' + ' '.join(testClasses) + '>> output.txt',shell=True)
-                processTest=subprocess.check_output(r'python preFinalTesting.py '+ ' '.join(testClasses) + '>> output.txt',shell=True)
+                processTrain=subprocess.check_output(r'python preFinalLBPRecognizer.py '+ str(numOfPoints) + ' '+ str(radius) + ' ' + str(dataSetEqualSize)  + ' ' + ' '.join(testClasses) + '>> outputLBP.txt',shell=True)
                 dataSetEqualSize = (not dataSetEqualSize)
-
 
         if(i==item*2):
             break

@@ -10,6 +10,7 @@ import cv2
 
 
 
+
 tools = Tools()
 desc = LocalBinaryPatterns(20, 1)
 data = []
@@ -28,7 +29,7 @@ ClassList=(tools.getClassNames("Resources/MajorProjectResources/LearningSet"))
 
 for cl in ClassList:
     clLearningFolder = learningSetPath+'/'+cl
-    tools.getAllImagesResized(clLearningFolder)
+    #tools.getAllImagesResized(clLearningFolder)
     clPathListLearning = tools.getImagePaths(clLearningFolder)
 
     for i in range(90):

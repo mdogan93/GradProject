@@ -1,6 +1,4 @@
 import argparse as ap
-import sys
-sys.path.append('/home/narya/cities-env/lib/python3.4/site-packages')
 import numpy as np
 import cv2
 from imutils import paths
@@ -19,7 +17,6 @@ testingSetPath = "Resources/MajorProjectResources/TestingSet"
 image_paths = []
 image_classes=[]
 testing_names = os.listdir(testingSetPath)
-testing_names = ['Gothic','GreekRevival']
 def gen_sift_features(gray_img):
     sift = xfeatures2d.SIFT_create()
     # kp is the keypoints
@@ -41,7 +38,6 @@ sift = cv2.xfeatures2d.SIFT_create()
 des_list = []
 
 for image_path in image_paths:
-    #print(image_path)
     image_path = image_path.replace('\ ', ' ')
     im = cv2.imread(image_path,0)
     kpts, des = gen_sift_features(im)

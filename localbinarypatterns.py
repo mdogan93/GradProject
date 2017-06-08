@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/narya/cities-env/lib/python3.4/site-packages')
 from skimage import feature
 import numpy as np
 

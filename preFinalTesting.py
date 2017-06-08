@@ -54,7 +54,7 @@ for image_path in image_paths:
     kpts, des = gen_sift_features(im)
     des_list.append((image_path, des))
 
-print(image_classes)
+#print(image_classes)
 
 # Stack all the descriptors vertically in a numpy array
 descriptors = des_list[0][1]
